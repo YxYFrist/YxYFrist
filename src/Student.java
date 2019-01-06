@@ -6,7 +6,7 @@ public class Student {
 
     public static void main(String[] args){
 
-        System.out.print("这是第一个程序123");
+        System.out.print("这是第一个程序123456789");
 
 
     }
